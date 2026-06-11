@@ -1,34 +1,24 @@
-### Hi 👋
+I’m a software developer who loves turning complex business challenges into clean, efficient, and reliable code. I’m passionate about system architecture and building tools that make a real difference.
+🔭 What I’m currently focused on
 
-<!--
-**gnkit/gnkit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+    Building scalable web services with PHP 8.2+ and Laravel 12.
 
-Here are some ideas to get you started:
+    Tackling optimization problems using Python, FastAPI, and Google OR-Tools.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    Creating intuitive interfaces with React 19 and TypeScript.
 
-### :hammer_and_wrench: Languages and Tools :
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg"  title="PHP" alt="PHP" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-line-wordmark.svg"  title="Laravel" alt="Laravel" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"  title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg"  title="Graphql" alt="Graphql" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original-wordmark.svg"  title="Ubuntu" alt="Ubuntu" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/phpstorm/phpstorm-plain-wordmark.svg"  title="Phpstorm" alt="Phpstorm" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/composer/composer-line-wordmark.svg"  title="Composer" alt="Composer" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg"  title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
-</div>
+    Refining development processes through Docker, static analysis (PHPStan), and clean architecture principles.
+
+🛠 My Tech Toolbox
+
+    Backend: PHP, Laravel, REST API, GraphQL, Redis, RabbitMQ
+
+    Optimization: Python, FastAPI, OR-Tools (CP-SAT)
+
+    Frontend: React, Vite, Tailwind CSS, Zustand
+
+    DevOps & DB: PostgreSQL, MySQL, Docker, Linux, Git
+
+💬 Let's connect!
+
+I’m always open to discussing new ideas, sharing knowledge, or collaborating on interesting projects. Whether it's about optimizing algorithms, improving code structure, or building something from scratch — feel free to reach out.
