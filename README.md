@@ -1,4 +1,5 @@
 I’m a software developer who loves turning complex business challenges into clean, efficient, and reliable code. I’m passionate about system architecture and building tools that make a real difference.
+
 🔭 What I’m currently focused on
 
     Building scalable web services with PHP 8.2+ and Laravel 12.
