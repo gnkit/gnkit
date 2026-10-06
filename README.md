@@ -1,25 +1,34 @@
-I’m a software developer who loves turning complex business challenges into clean, efficient, and reliable code. I’m passionate about system architecture and building tools that make a real difference.
+# Hi, I'm gnkit 👋
 
-🔭 What I’m currently focused on
+**PHP / Laravel Developer · Backend Architecture · Open Source**
 
-    Building scalable web services with PHP 8.2+ and Laravel 12.
+I build backend systems with a focus on **clean architecture, business logic and maintainable code**.
 
-    Tackling optimization problems using Python, FastAPI, and Google OR-Tools.
+### Stack
 
-    Creating intuitive interfaces with React 19 and TypeScript.
+**Backend:** PHP · Laravel · REST API · GraphQL · Redis  
+**Frontend:** React · TypeScript · Vite · Tailwind  
+**Data:** PostgreSQL · MySQL  
+**Tools:** Docker · Linux · Git · PHPStan · Pest  
+**Optimization:** Python · FastAPI · OR-Tools · CP-SAT
 
-    Refining development processes through Docker, static analysis (PHPStan), and clean architecture principles.
+### Open Source
 
-🛠 My Tech Toolbox
+Currently studying and contributing to production-grade PHP/Laravel packages, with a focus on architecture, testing and maintainability.
 
-    Backend: PHP, Laravel, REST API, GraphQL, Redis, RabbitMQ
+→ **[laravel-activitylog](https://github.com/gnkit/laravel-activitylog)**
 
-    Optimization: Python, FastAPI, OR-Tools (CP-SAT)
+### Current Focus
 
-    Frontend: React, Vite, Tailwind CSS, Zustand
+- PHP / Laravel architecture
+- Open-source packages
+- Domain modeling & business processes
+- Algorithms and constraint optimization
+- Practical AI-assisted development
 
-    DevOps & DB: PostgreSQL, MySQL, Docker, Linux, Git
+### GitHub Stats
 
-💬 Let's connect!
-
-I’m always open to discussing new ideas, sharing knowledge, or collaborating on interesting projects. Whether it's about optimizing algorithms, improving code structure, or building something from scratch — feel free to reach out.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gnkit&show_icons=true&hide_border=true&rank_icon=github" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gnkit&layout=compact&hide_border=true&langs_count=6" height="160" />
+</p>
